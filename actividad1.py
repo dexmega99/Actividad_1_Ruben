@@ -16,7 +16,7 @@ def numeros_random():
         numero=int(input("Introduce un numero del 1 al 10 "))
         
         if(numero==adivinar):
-            print("Has ganado \n")
+            print("Has ganado \n")q
             contador_intentos=3
 
         elif(numero!=adivinar):
